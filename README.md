@@ -11,3 +11,4 @@
 - git status:
 - git add:
 - git commit -m "Mensagem":
+- git push origin main
