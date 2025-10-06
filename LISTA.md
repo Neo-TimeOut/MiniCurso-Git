@@ -1,0 +1,8 @@
+- git clone:
+- git status:
+- git add:
+- git commit -m "Este commit.."
+- git log:
+- git push origin main:
+- git branch feature/lista...
+- git checkout feature/lista...
